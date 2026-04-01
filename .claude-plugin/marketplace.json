@@ -1,0 +1,29 @@
+{
+  "name": "aredes-marketplace",
+  "owner": {
+    "name": "Cristiano Aredes",
+    "url": "https://github.com/cristianoaredes"
+  },
+  "metadata": {
+    "description": "Curated Claude Code plugins by Cristiano Aredes — prompt optimization, engineering workflows, and productivity tools.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "prompt-optimizer",
+      "description": "Prompt sharpener, agent-driven workflows, tuning profiles, API injection controls, and CLAUDE.md templates.",
+      "version": "2.0.0",
+      "source": {
+        "source": "github",
+        "repo": "cristianoaredes/claude-prompt-optimizer"
+      },
+      "category": "productivity",
+      "tags": [
+        "prompt-engineering",
+        "token-optimization",
+        "workflows"
+      ],
+      "license": "MIT"
+    }
+  ]
+}
