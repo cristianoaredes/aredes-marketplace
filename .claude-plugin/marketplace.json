@@ -10,6 +10,27 @@
   },
   "plugins": [
     {
+      "name": "build-ios-apps",
+      "description": "Complete iOS development toolkit: SwiftUI UI patterns, view refactoring, performance audits, Liquid Glass (iOS 26+), simulator debugging via XcodeBuildMCP, plus 22 App Store Connect CLI workflows for builds, releases, TestFlight, signing, pricing, localization, screenshots, notarization, and ASO.",
+      "version": "0.1.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/cristianoaredes/build-ios-apps.git"
+      },
+      "category": "coding",
+      "tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "xcode",
+        "app-store-connect",
+        "testflight",
+        "mcp",
+        "xcodebuildmcp"
+      ],
+      "license": "MIT"
+    },
+    {
       "name": "prompt-optimizer",
       "description": "Prompt sharpener, agent-driven workflows, tuning profiles, API injection controls, and CLAUDE.md templates.",
       "version": "2.1.0",
